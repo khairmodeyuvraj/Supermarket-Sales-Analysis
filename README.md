@@ -1,8 +1,6 @@
-# 📊 Task 5 - Sales Data Analysis
+# Supermarket Sales Analysis
 
 ## 📌 Project Overview
-
-This project is a part of the **Synent Technologies Data Science Internship Program**.
 
 The objective of this project is to analyze Superstore sales data and extract meaningful business insights using Python and data visualization techniques. The project follows the complete data analysis workflow, including data cleaning, exploratory data analysis (EDA), visualization, and business insight generation.
 
