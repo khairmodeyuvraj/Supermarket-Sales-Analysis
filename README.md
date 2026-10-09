@@ -125,12 +125,10 @@ jupyter notebook task_5.ipynb
 
 **Yuvraj Khairmode**
 
-Data Science Intern | Synent Technologies
-
 GitHub: https://github.com/khairmodeyuvraj
 
 ---
 
 ## ⭐ Acknowledgement
 
-This project was completed as part of the **Synent Technologies Data Science Internship Program**.
+This project was completed as part of the internship.
