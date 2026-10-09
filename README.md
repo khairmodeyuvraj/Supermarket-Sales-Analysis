@@ -93,7 +93,7 @@ Task-5-Sales-Data-Analysis/
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/khairmodeyuvraj/synent-task5-salesanalysis-yuvrajkhairmode.git
+git clone https://github.com/khairmodeyuvraj/Supermarket-Sales-Analysis.git
 ```
 
 2. Install the required libraries.
@@ -105,7 +105,7 @@ pip install -r requirements.txt
 3. Open the notebook.
 
 ```bash
-jupyter notebook task_5.ipynb
+jupyter notebook Yuvraj_Supermarket_Sales_Analyasis.ipynb
 ```
 
 4. Run all cells to reproduce the analysis.
